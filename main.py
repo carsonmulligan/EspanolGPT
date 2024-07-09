@@ -3,7 +3,14 @@ from youtube_transcript_api import YouTubeTranscriptApi
 import streamlit as st
 import re
 import json
+from dotenv import load_dotenv
+import os
 
+# Load environment variables from .env file
+load_dotenv()
+
+# Set OpenAI API key
+openai.api_key = os.getenv('OPENAI_API_KEY')
 
 # List of YouTube video URLs
 videos = [
