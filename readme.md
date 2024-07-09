@@ -21,3 +21,6 @@ This is a place to document the speeches, documentaries, and music to learn the 
 7. (History) Porfirio Díaz: Líder Supremo de México https://www.youtube.com/watch?v=7uO6VzN79eI&t=1548s&pp=ygUXZG9jdW1lbnRhbCBwcm9maXJpaW90cCA%3D
 8. (History) Programa Especial | Benito Juárez: La otra historia https://www.youtube.com/watch?v=j5agGy_vQ_A&pp=ygUSZG9jdW1lbnRhbCBqdWFyZXog
 9. (History) Emiliano Zapata: Caudillo de la Revolución Mexicana https://www.youtube.com/watch?v=b2e8BVzmc9w&pp=ygUaZG9jdW1lbnRhbCBlbWlsaWFubyB6YXBhdGE%3D
+10. (History) Pancho Villa: El centauro del norte. Capítulo 1 https://www.youtube.com/watch?v=KF4N1C0a0co&pp=ygUXZG9jdW1lbnRhbCBwYW5jaG8gdmlsbGE%3D 
+
+### Venezuela
