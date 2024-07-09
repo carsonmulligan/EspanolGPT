@@ -29,3 +29,10 @@ This is a place to document the speeches, documentaries, and music to learn the 
 3. (Speech) Presidente Hugo Chávez en la Asamblea General de la ONU, 20 de septiembre de 2006: ¡Huele a azufre! https://www.youtube.com/watch?v=4LGk1fVhY7o&pp=ygUaZGlzY3Vyc28gY29tcGxldG8gZGUgaGl1Z28%3D
 
 ### Honduras 
+1. (History) Breve historia política de Honduras https://www.youtube.com/watch?v=8bbYkTgz6nU&pp=ygUdYnJldmUgaGlzdG9yaWEgZGUgbGEgaG9uZHVyYXM%3D
+2. (History) ¿UN CONFLICTO DESATADO POR FÚTBOL? La Guerra que Empezó con un Partido ⚽️🔥 https://www.youtube.com/watch?v=5krESyH4BKg&pp=ygUxbGEgZ3VlcnJhIGRlIGZ1dGJvbCBlbnRyZSBob25kdXJhcyB5IGVsIHNhbHZhZG9yIA%3D%3D
+
+### Guatemala
+1. (History) Breve historia política de Guatemala https://www.youtube.com/watch?v=tXLhWHWGaao&t=61s&pp=ygUdYnJldmVlIGhpc3RvcnkgZGUgbGEgZ3VhdGFtbGE%3D
+2. (Indigenous Language) K'iche' - Mayan Language of Guatemala https://www.youtube.com/watch?v=1UxvROfgII4&pp=ygUebGluZ3VhcyBpbmRlZ25vdXMgZGUgZ3VhdGVtYWxh
+3. (History) Civilización perdida: Viaje a las Misteriosas Ciudades Mayas Perdidas | DOCUMENTAL Historia https://www.youtube.com/watch?v=MUpzYayZ1ng&pp=ygUVaGlzdG9yaWEgZGUgbG9zIG1heWFz
