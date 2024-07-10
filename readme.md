@@ -7,8 +7,9 @@ This is a place to document the speeches, documentaries, and music to learn the 
 
 ## Country Specific Resources
 ###  El Salvador 
-1. (Speech) Discurso completo de Nayib Bukele en la ONU: El Salvador es el "país más seguro de América Latina" https://www.youtube.com/watch?v=Y_BxX_kHM1M&pp=ygUiZGlzY3Vyc28gY29tcGxldG8gZGUgbmF5aWIgYnVrZWxlIA%3D%3D
-2. (History) Breve historia política de El Salvador https://www.youtube.com/watch?v=-e17U_wI0QQ&t=611s&pp=ygUcaGlzdG9yaWEgZGUgZWwgc2F2YWRvciBicmV2ZQ%3D%3D
+1. (History) THE CIVIL WAR OF EL SALVADOR 1979-1992 (Español) https://youtu.be/LXfYG-l1EkE?si=QA4eVFuUSyNxFEfT
+2. (Speech) Discurso completo de Nayib Bukele en la ONU: El Salvador es el "país más seguro de América Latina" https://www.youtube.com/watch?v=Y_BxX_kHM1M&pp=ygUiZGlzY3Vyc28gY29tcGxldG8gZGUgbmF5aWIgYnVrZWxlIA%3D%3D
+3. (History) Breve historia política de El Salvador https://www.youtube.com/watch?v=-e17U_wI0QQ&t=611s&pp=ygUcaGlzdG9yaWEgZGUgZWwgc2F2YWRvciBicmV2ZQ%3D%3D
 
 
 ### Mexico
