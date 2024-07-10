@@ -23,6 +23,7 @@ This is a place to document the speeches, documentaries, and music to learn the 
 8. (History) Programa Especial | Benito Juárez: La otra historia https://www.youtube.com/watch?v=j5agGy_vQ_A&pp=ygUSZG9jdW1lbnRhbCBqdWFyZXog
 9. (History) Emiliano Zapata: Caudillo de la Revolución Mexicana https://www.youtube.com/watch?v=b2e8BVzmc9w&pp=ygUaZG9jdW1lbnRhbCBlbWlsaWFubyB6YXBhdGE%3D
 10. (History) Pancho Villa: El centauro del norte. Capítulo 1 https://www.youtube.com/watch?v=KF4N1C0a0co&pp=ygUXZG9jdW1lbnRhbCBwYW5jaG8gdmlsbGE%3D 
+11. (Podcast) La Cotorissa - (Todos los Episodios) Episodio 276 - Balacearon a mi cuñado https://www.youtube.com/watch?v=m2Q966RZ60k 
 
 ### Venezuela
 1. (History) Simón Bolívar El Libertador Documental https://www.youtube.com/watch?v=VWH6SZlnJcc
