@@ -15,15 +15,16 @@ This is a place to document the speeches, documentaries, and music to learn the 
 ### Mexico
 1. (History) Breve historia política de México https://www.youtube.com/watch?v=FAr61EzegWo&t=214s&pp=ygUYaGlzdG9yaWEgZGUgbWV4aWNvIGJyZXZl
 2. (History) Los Aztecas: Capítulo I, El Origen (Documental Completo) https://www.youtube.com/watch?v=HnbnJJD8Vu0&pp=ygUeaGlzdG9yaWEgZGUgbGxvcyBhenRlY2FzIGJyZXZl
-3. (Music) Chino Pacas - El Gordo Trae El Mando [Video Oficial] https://www.youtube.com/watch?v=uIuSv7NU2KU&pp=ygUXZWwgZ29yZG8gdHJhZSBlbCBtYW5kbyA%3D
-4. (Music) LA CHIMICHANGA (SC 9 VIDEO OFICIAL)! https://www.youtube.com/watch?v=4Vu8n_2zm-Y&pp=ygUEc2MtOQ%3D%3D
-5. (Music) NUEVA VIDA (Lyric Video) - Peso Pluma https://www.youtube.com/watch?v=qkXIRZKSQ3k&pp=ygUWbnVldmEgdmlkZW8gcGVzbyBwbHVtYQ%3D%3D
-6. (Speech) Discurso completo del Presidente de México, Andrés Manuel López Obrador, en su Toma de Protesta https://www.youtube.com/watch?v=lnmcZEZaJGU&pp=ygUiZGlzY3Vyc28gY29tcGxldG8gZGUgbG9wZXogb2JyYWRvcg%3D%3D
-7. (History) Porfirio Díaz: Líder Supremo de México https://www.youtube.com/watch?v=7uO6VzN79eI&t=1548s&pp=ygUXZG9jdW1lbnRhbCBwcm9maXJpaW90cCA%3D
-8. (History) Programa Especial | Benito Juárez: La otra historia https://www.youtube.com/watch?v=j5agGy_vQ_A&pp=ygUSZG9jdW1lbnRhbCBqdWFyZXog
-9. (History) Emiliano Zapata: Caudillo de la Revolución Mexicana https://www.youtube.com/watch?v=b2e8BVzmc9w&pp=ygUaZG9jdW1lbnRhbCBlbWlsaWFubyB6YXBhdGE%3D
-10. (History) Pancho Villa: El centauro del norte. Capítulo 1 https://www.youtube.com/watch?v=KF4N1C0a0co&pp=ygUXZG9jdW1lbnRhbCBwYW5jaG8gdmlsbGE%3D 
-11. (Podcast) La Cotorissa - (Todos los Episodios) Episodio 276 - Balacearon a mi cuñado https://www.youtube.com/watch?v=m2Q966RZ60k 
+3. (Speech) Discurso completo del Presidente de México, Andrés Manuel López Obrador, en su Toma de Protesta https://www.youtube.com/watch?v=lnmcZEZaJGU&pp=ygUiZGlzY3Vyc28gY29tcGxldG8gZGUgbG9wZXogb2JyYWRvcg%3D%3D
+4. (History) Porfirio Díaz: Líder Supremo de México https://www.youtube.com/watch?v=7uO6VzN79eI&t=1548s&pp=ygUXZG9jdW1lbnRhbCBwcm9maXJpaW90cCA%3D
+5. (History) Programa Especial | Benito Juárez: La otra historia https://www.youtube.com/watch?v=j5agGy_vQ_A&pp=ygUSZG9jdW1lbnRhbCBqdWFyZXog
+6. (History) Emiliano Zapata: Caudillo de la Revolución Mexicana https://www.youtube.com/watch?v=b2e8BVzmc9w&pp=ygUaZG9jdW1lbnRhbCBlbWlsaWFubyB6YXBhdGE%3D
+7. (History) Pancho Villa: El centauro del norte. Capítulo 1 https://www.youtube.com/watch?v=KF4N1C0a0co&pp=ygUXZG9jdW1lbnRhbCBwYW5jaG8gdmlsbGE%3D 
+8. (Podcast) La Cotorissa - (Todos los Episodios) Episodio 276 - Balacearon a mi cuñado https://www.youtube.com/watch?v=m2Q966RZ60k 
+pp=ygUXZWwgZ29yZG8gdHJhZSBlbCBtYW5kbyA%3D
+9. (Music) LA CHIMICHANGA (SC 9 VIDEO OFICIAL)! https://www.youtube.com/watch?v=4Vu8n_2zm-Y&pp=ygUEc2MtOQ%3D%3D
+10. (Music) NUEVA VIDA (Lyric Video) - Peso Pluma https://www.youtube.com/watch?v=qkXIRZKSQ3k&pp=ygUWbnVldmEgdmlkZW8gcGVzbyBwbHVtYQ%3D%3D
+11. (Music) Chino Pacas - El Gordo Trae El Mando [Video Oficial] https://www.youtube.com/watch?v=uIuSv7NU2KU&
 
 ### Venezuela
 1. (History) Simón Bolívar El Libertador Documental https://www.youtube.com/watch?v=VWH6SZlnJcc
