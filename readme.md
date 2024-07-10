@@ -25,9 +25,11 @@ This is a place to document the speeches, documentaries, and music to learn the 
 10. (History) Pancho Villa: El centauro del norte. Capítulo 1 https://www.youtube.com/watch?v=KF4N1C0a0co&pp=ygUXZG9jdW1lbnRhbCBwYW5jaG8gdmlsbGE%3D 
 
 ### Venezuela
-1. (History) Breve historia política de Venezuela https://www.youtube.com/watch?v=EE0bm3d4mn4&pp=ygUfYnJldmUgaGlzdG9yaWEgZGUgbGEgdmVuZXp1ZWxhIA%3D%3D
-2. (Speech) Histórico discurso de Hugo Chavez ante la ONU - 20 de Septiembre de 2006 https://www.youtube.com/watch?v=Flm6ZqPr2AQ&pp=ygUaZGlzY3Vyc28gY29tcGxldG8gZGUgaGl1Z28%3D
-3. (Speech) Presidente Hugo Chávez en la Asamblea General de la ONU, 20 de septiembre de 2006: ¡Huele a azufre! https://www.youtube.com/watch?v=4LGk1fVhY7o&pp=ygUaZGlzY3Vyc28gY29tcGxldG8gZGUgaGl1Z28%3D
+1. (History) Simón Bolívar El Libertador Documental https://www.youtube.com/watch?v=VWH6SZlnJcc
+2. (History) Breve historia política de Venezuela https://www.youtube.com/watch?v=EE0bm3d4mn4&pp=ygUfYnJldmUgaGlzdG9yaWEgZGUgbGEgdmVuZXp1ZWxhIA%3D%3D
+3. (Speech) Histórico discurso de Hugo Chavez ante la ONU - 20 de Septiembre de 2006 https://www.youtube.com/watch?v=Flm6ZqPr2AQ&pp=ygUaZGlzY3Vyc28gY29tcGxldG8gZGUgaGl1Z28%3D
+4. (Speech) Presidente Hugo Chávez en la Asamblea General de la ONU, 20 de septiembre de 2006: ¡Huele a azufre! https://www.youtube.com/watch?v=4LGk1fVhY7o&pp=ygUaZGlzY3Vyc28gY29tcGxldG8gZGUgaGl1Z28%3D
+5. (History) #Documental - El Reventón. Los inicios de la producción petrolera en Venezuela (1883-1943) https://www.youtube.com/watch?v=s55LNl_Q3U4
 
 ### Honduras 
 1. (History) Breve historia política de Honduras https://www.youtube.com/watch?v=8bbYkTgz6nU&pp=ygUdYnJldmUgaGlzdG9yaWEgZGUgbGEgaG9uZHVyYXM%3D
